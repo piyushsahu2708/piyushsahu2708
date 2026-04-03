@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Piyush Sahu</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
 ---
 
 ### 🚀 About Me
+- 💼 Software Developer at **Walkover**, building scalable web applications using MERN stack, currently working on **SkillMirror** and **Practovision**
 - 🔭 I’m currently working on **AMBULANCE (MERN Stack Project)**
+- 🎯 Targeting **GSoC (Google Summer of Code)** and actively contributing to Open Source
 - 👯 I’m looking to collaborate on **Open Source & React Projects**
 - 🤝 I’m looking for help with **Scaling Full Stack Applications**
 - 🌱 I’m currently learning **MERN Stack, System Design & AI Integration**
@@ -44,7 +46,7 @@
 ### 🌐 Connect with Me
 
 - 💻 GitHub: https://github.com/piyushsahu2708
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/piyush-sahu-052666249/
 - 🧠 LeetCode: *(Add your LeetCode link here)*
 
 ---
